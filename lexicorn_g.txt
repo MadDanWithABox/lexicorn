@@ -1065,6 +1065,7 @@ chartour
 bythkweth
 chassya
 chastia
+contest
 bytt
 chatelydh
 byttegyns
@@ -8928,4 +8929,3 @@ ys
 ysek
 yskans
 yskar
-contest
